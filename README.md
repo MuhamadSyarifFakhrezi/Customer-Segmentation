@@ -42,6 +42,7 @@ Data penjualan superstore dataset dari tahun 2014 hingga tahun 2017, yang berisi
 - Quantity => Quantity of the Product.
 - Discount => Discount provided.
 - Profit => Profit/Loss incurred.
+
 Sumber data: [Dataset.csv](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Data Wrangling
@@ -53,9 +54,12 @@ Sumber data: [Dataset.csv](https://www.kaggle.com/datasets/vivek468/superstore-d
 ## Exploratory Data Analysis
 - Bagaimana performa dari penjualan saat ini?
   
-![Revenue](https://github.com/user-attachments/assets/34c7cf19-0e70-4134-b9a1-2de9c76a1813)
+![Revenue](https://github.com/user-attachments/assets/56bf7d3f-459a-49e3-94cf-d9f4023e825f)
 
 Grafik garis di atas menunjukkan revenue yang dihasilkan dari tahun 2014 hingga 2017 yang mana mengalami peningkatan. Setiap tahunnya memiliki pola yang mirip, dengan lonjakkan setiap bulan April, Oktober, dan Desember.
+
+![Profit](https://github.com/user-attachments/assets/0463ce8f-bbfd-44fd-8a73-587ef89b6596)
+Profit terendah terjadi pada bulan februari 2015, dan yang tertinggi pada bulan januari 2017. Namun yang menarik disini, pada bulan-bulan yang revenue nya selalu meningkat setiap tahun tidak selalu memiliki lonjakan profit, mungkin ini dikarenakan kampanye pemasaran yang menerapkan harga diskon. Kemudian pada akhir tahun 2017 memiliki profitabilitas yang lesu meskipun revenue yang dihasilkan meningkat signifikan.
 
 ![Categorical Distribution](https://github.com/user-attachments/assets/7c474c46-b3f8-4d66-86ad-4fced7f292fb)
 
