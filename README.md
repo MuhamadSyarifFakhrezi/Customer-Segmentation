@@ -117,6 +117,8 @@ Distribusi setiap segmen:
 
 ![K-means](https://github.com/user-attachments/assets/59382539-992e-464f-b4ea-b910a10473eb)
 
+## Summary
+
 | Segmen | Label | % | Interpretasi | Actionable Insight |
 | --- | --- | --- | --- | --- |
 | 0 | Top Customers | 28% | Pelanggan yang sangat loyal, cenderung melakukan transaksi dalam jumlah besar, dan sering memanfaatkan discount, segmen ini yang paling banyak menghasilkan revenue. | Fokus pada peningkatkan pembelian pelanggan, untuk itu penting untuk melakukan strategi cross selling atau up selling. |
