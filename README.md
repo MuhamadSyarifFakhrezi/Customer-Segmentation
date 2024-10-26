@@ -1,6 +1,6 @@
 # Customer-Segmentation
 ## Business Understanding
-Superstore berusaha untuk mengidentifikasi segmen pelanggan mana yang harus diprioritaskan dalam upaya pemasaran mereka dan mana yang harus dihindari agar dapat meningkatkan profitabilitas mereka. Perusahaan membutuhkan wawasan berbasis data untuk menjawab pertanyaan berikut:
+Superstore berusaha untuk mengidentifikasi segmen pelanggan mana yang harus diprioritaskan dalam upaya pemasaran mereka dan mana yang harus dihindari agar dapat meningkatkan profitabilitas. Mereka membutuhkan wawasan berbasis data untuk menjawab pertanyaan berikut:
 - Segmen pelanggan mana yang paling menguntungkan?
 - Segmen pelanggan mana yang berisiko berhenti berlangganan?
 - Strategi pemasaran apa yang paling berhasil untuk setiap segmen?
@@ -12,12 +12,6 @@ Tujuan utama dari proyek ini adalah mengelompokkan pelanggan berdasarkan karakte
 - Mengidentifikasi dan memprioritaskan segmen pelanggan yang bernilai tinggi.
 - Menyoroti segmen pelanggan dengan keterlibatan rendah atau profitabilitas rendah, sehingga memungkinkan untuk mengevaluasi kembali strategi pemasarannya atau mengurangi upaya terhadap segmen yang kurang produktif.
 - Mengembangkan wawasan untuk menciptakan kampanye pemasaran yang dipersonalisasi.
-
-Kriteria Keberhasilan
-- Identifikasi setiap segmen pelanggan berdasarkan data perilaku pembelian.
-- Implementasi kampanye pemasaran yang dipersonalisasi berdasarkan segmen pelanggan meningkatkan keterlibatan pelanggan sebesar 15% selama enam bulan.
-- Pengurangan pengeluaran pemasaran yang diarahkan ke segmen pelanggan yang bernilai rendah atau tidak terlibat, meningkatkan laba atas investasi pemasaran (ROMI) sebesar 20%.
-- Menurunkan tingkat churn rate di antara nasabah bernilai tinggi melalui strategi retensi yang ditargetkan.
 
 ## Data Understanding
 Data penjualan superstore dataset dari tahun 2014 hingga tahun 2017, yang berisi kolom berikut:
@@ -48,7 +42,7 @@ Sumber data: [Dataset.csv](https://www.kaggle.com/datasets/vivek468/superstore-d
 ## Data Wrangling
 - Memastikan tidak terdapat data duplikat dan null values
 - Menyesuaikan tipe data
-- Mengelompokkan data berdasarkan customer_id
+- Mengelompokkan feature-feature yang akan digunakan berdasarkan customer_id 
 - Menerapkan metode yeo-johnson transformation dan standarisasi untuk mengurangi skewness dan outliers
 
 ## Exploratory Data Analysis
