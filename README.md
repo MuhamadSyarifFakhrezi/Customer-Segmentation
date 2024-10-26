@@ -88,10 +88,10 @@ Berdasarkan rasio diatas, segmen pelanggan paling banyak adalah high value custo
 
 ![dist_rfm_num](https://github.com/user-attachments/assets/f93ddb5c-c3c7-4d93-9191-e3c07f582553)
 
-Dari grafik tersebut dapat disimpulkan bahwa semakin tinggi hirarki segmen, semakin tinggi juga nilai diskon yang digunakan. Maka diskon ini mungkin bisa menjadi daya tarik agar pelanggan dapat bertransaki lebih banyak dan lebih sering.
+Dari grafik tersebut dapat disimpulkan bahwa semakin tinggi hirarki segmen, semakin tinggi juga nilai diskon yang digunakan. Maka diskon ini mungkin bisa menjadi daya tarik agar pelanggan dapat bertransaksi lebih banyak dan lebih sering.
 
 ## K-Means Clustering
-K-Means Clustering merupakan algoritma unsupervised learning yang dapat digunakan untuk mengelompokkan data tanpa label ke dalam K cluster (jumlah cluster/segmen yang ditentukan) sedemikian rupa berdasarkan karakteristik serupa.
+K-Means Clustering merupakan algoritma unsupervised learning yang dapat digunakan untuk mengelompokkan data tanpa label ke dalam K cluster (jumlah cluster/segmen yang ditentukan) sedemikian rupa berdasarkan karakteristik yang sama.
 
 Algoritma K-Means memiliki limitasi sebagai berikut:
 - Sangat sensitif terhadap outlier.
